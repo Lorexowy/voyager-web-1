@@ -103,7 +103,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #000000;
 		overflow-x: hidden;
 	}
 
@@ -176,7 +176,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.25s ease-in-out;
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
-		color: #ffffff;
+		color: #000000;
 		border-bottom: dotted 1px;
 	}
 
@@ -199,7 +199,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #000000;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-weight: 600;
 		letter-spacing: 0.175em;
@@ -1961,7 +1961,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #906a54;
+			background-color: #443127;
 			box-shadow: none;
 			color: #000000 !important;
 		}
@@ -3223,7 +3223,7 @@ input, select, textarea {
 
 		#wrapper:before {
 			background-attachment: fixed;
-			background-color: #654a3b;
+			background-color: #ffffff;
 			background-image: url('images/background/leathershot.jpg');
 			background-position: -50% 10%;
 			background-repeat: repeat-y;
@@ -3291,7 +3291,7 @@ input, select, textarea {
 		}
 
 			#wrapper > section > header:before {
-				background: #ffffff;
+				background: #443127;
 				content: '';
 				display: block;
 				margin-top: 1rem;
@@ -3304,7 +3304,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					background: #ffffff;
+					background: #443127;
 					content: '';
 					display: block;
 					height: 2px;
@@ -3313,7 +3313,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section > header h1:after, #wrapper > section > header h2:after {
-					background: #ffffff;
+					background: #443127;
 					border-radius: 0.5rem;
 					content: '';
 					display: block;
